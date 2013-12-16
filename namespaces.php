@@ -19,7 +19,7 @@ Class Temizlik
 
 Class Teknik
 {
-    // "Feed" sınıfı içinde "oku" isminde bir fonksiyon oluşturuyorum.
+    // "Teknik" sınıfı içinde "oku" isminde bir fonksiyon oluşturuyorum.
     public function oku()
     {
         return 'Personel namespace içindeki Teknik çalışanlar';
