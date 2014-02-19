@@ -16,6 +16,7 @@ abstract class insan {
 
 }
 
+//insan sınıfından türettik
 class kadin extends insan {
 
 	protected $trip; //kadın a özel 
@@ -29,6 +30,7 @@ class kadin extends insan {
 
 }
 
+//insan sınıfından türettik
 class erkek extends insan {
 
 	protected $sabir; //erkek e özel
