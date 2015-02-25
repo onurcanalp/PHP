@@ -1,10 +1,12 @@
 Basic PHP Examples - Tutorials
 ===
 
-abstract.php              - PHP Abstracts
+abstract.php                  - PHP Abstracts
 
-difference_2_lat_lon.php  -	Function for find distances with two point
+difference_2_lat_lon.php      -	Function for find distances with two point
 
-hello_world.php	          - :)
+hello_world.php	              - :)
 
-namespaces.php	          - PHP Namespaces
+namespaces.php	              - PHP Namespaces
+
+mysqli_singleton_pattern.php  - Mysqli Singleton design Pattern
